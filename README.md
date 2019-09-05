@@ -5,4 +5,4 @@ Don't crash the laptop
 # Goal 2
 Get through class
 # Goal 3
-Go home
+Get home
